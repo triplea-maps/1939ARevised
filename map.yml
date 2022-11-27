@@ -1,0 +1,5 @@
+map_name: 1939ARevised
+games:
+- game_name: 1939A Historical-Revised
+  file_name: 1939A-Revised.xml
+version: 0
